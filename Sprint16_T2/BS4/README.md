@@ -6,8 +6,8 @@ This notebook imports the packages:
   - BeautifulSoup
   - selenium
   
- To extract data about the market price of IBEX 35 companies during the last 24 hours from the web https://www.bolsamadrid.es.
- /nAlong with the notebook the driver to execute the Chrome webdriver for selenium is given. 
+ To extract data about the market price of IBEX 35 companies during the last 24 hours from the web https://www.bolsamadrid.es.  
+ Along with the notebook the driver to execute the Chrome webdriver for selenium is given. 
  
  The resulting table.csv is made from the following attributes:
  
